@@ -26,4 +26,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->version = 2014041100;
+$plugin->component = 'local_magentoconnector';
 
